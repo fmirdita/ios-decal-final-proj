@@ -36,6 +36,3 @@ This app will be engineered with a focus on UI. While we believe the underlying 
 ### Controller
 * MiscellaneousEntryViewController
 * MemoryFeedTableViewController
-
-Heading 3: Controller
-Bullet Points: [List the files in your Controller, e.g. OutfitListTableViewController]
