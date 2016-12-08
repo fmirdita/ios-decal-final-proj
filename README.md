@@ -1,12 +1,13 @@
 # ios-decal-final-proj
 An iOS application engineered for the iOS DeCal at UC Berkeley, Fall 2016.
+Jemal Aytjanova implemented ViewController, TableViewController, Storyboard
+Filip Mirdita implemented Hamburger Menu
 
 # Journal
 
 ## Authors
 * Filip Mirdita
 * Jemal Aytjanova
-* Fadi Francis
 
 ## Purpose
 Me is a journaling app designed for those who would like to record their memories, such as dementia and Alzheimer's patients. With an app that records memories, users will have long-lasting, organized, and simple way of accessing their most precious thoughts. 
