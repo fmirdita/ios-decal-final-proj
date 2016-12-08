@@ -1,7 +1,8 @@
 # ios-decal-final-proj
 An iOS application engineered for the iOS DeCal at UC Berkeley, Fall 2016.
-Jemal Aytjanova implemented ViewController, TableViewController, Storyboard
-Filip Mirdita implemented Hamburger Menu
+
+* Jemal Aytjanova implemented ViewController, TableViewController, Storyboard
+* Filip Mirdita implemented Hamburger Menu
 
 # Journal
 
